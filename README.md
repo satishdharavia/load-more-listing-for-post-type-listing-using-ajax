@@ -2,6 +2,6 @@
 Ajax loading list post display with wordpress
 
 
-=> post type : post-name
-=>  taxonomy : years
-=>  taxonomy : make
+=> post type : post-name,
+=>  taxonomy : years,
+=>  taxonomy : make,
